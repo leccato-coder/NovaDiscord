@@ -1,2 +1,17 @@
 # NovaDiscord
-NovaDiscord is a lightweight Velocity plugin that allows players to access your Discord server using a simple command. It includes customizable messages, configurable Discord invite links, permissions, automatic Hangar update checking, reload support and a clean, performance-focused architecture.
+
+NovaDiscord is a lightweight Velocity plugin that lets players access your Discord server with a simple command.
+
+The plugin is fully configurable and includes an automatic update checker, permissions and a modern configuration system.
+
+## Features
+
+- 💬 /discord command
+- 🔁 Alias support
+- ⚙️ Fully configurable
+- 🔄 Automatic Hangar update checker
+- ⚡ Lightweight
+- 🔐 Permissions
+- 🛠 Velocity only
+
+Developed by **leccato**
